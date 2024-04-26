@@ -1,0 +1,14 @@
+MTU Size: 500
+Successful transfers: 177
+Partially successful transfers: 0
+Unsuccessful transfers: 0
+
+MTU Size: 1000
+Successful transfers: 290
+Partially successful transfers: 0
+Unsuccessful transfers: 3
+
+MTU Size: 1500
+Successful transfers: 330
+Partially successful transfers: 0
+Unsuccessful transfers: 3
