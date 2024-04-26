@@ -1,14 +1,54 @@
-MTU Size: 500
+Image Resolution: 2560x400 MTU Size: 1412
+Successful transfers: 1217
+Partially successful transfers: 0
+Unsuccessful transfers: 2
+
+Image Resolution: 5120x800 MTU Size: 1412
+Successful transfers: 328
+Partially successful transfers: 100
+Unsuccessful transfers: 3
+
+Image Resolution: 5120x800 MTU Size: 500
 Successful transfers: 177
 Partially successful transfers: 0
 Unsuccessful transfers: 0
 
-MTU Size: 1000
+Image Resolution: 5120x800 MTU Size: 1000
 Successful transfers: 290
 Partially successful transfers: 0
 Unsuccessful transfers: 3
 
-MTU Size: 1500
+Image Resolution: 5120x800 MTU Size: 1500
 Successful transfers: 330
+Partially successful transfers: 0
+Unsuccessful transfers: 3
+
+Image Resolution: 5120x800 MTU Size: 1500
+Successful transfers: 300
+Partially successful transfers: 0
+Unsuccessful transfers: 3
+
+Image Resolution: 5120x800 MTU Size: 1500
+Successful transfers: 249
+Partially successful transfers: 0
+Unsuccessful transfers: 4
+
+Image Resolution: 5120x800 MTU Size: 1500
+Successful transfers: 311
+Partially successful transfers: 0
+Unsuccessful transfers: 2
+
+Image Resolution: 5120x800 MTU Size: 1500
+Successful transfers: 474
+Partially successful transfers: 0
+Unsuccessful transfers: 3
+
+Image Resolution: 5120x800 MTU Size: 1500
+Successful transfers: 342
+Partially successful transfers: 0
+Unsuccessful transfers: 4
+
+Image Resolution: 5120x800 MTU Size: 1500
+Successful transfers: 353
 Partially successful transfers: 0
 Unsuccessful transfers: 3
